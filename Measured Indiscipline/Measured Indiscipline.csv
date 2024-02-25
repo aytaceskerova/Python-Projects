@@ -1,0 +1,741 @@
+Employee ID,Reason for absence,Month Away,Day of the week,Season,The cost of transportation,The distance between home and workplace,Service time,Age,Disciplinary failure,Education,Number of Children,Drinker in public,Smoker in public,Weight,Height,Indiscipline measured in hours
+11,Without International Code of Diseases,July,3,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,4
+36,Absences confirmed by the International Code of Diseases,July,3,Summer,118,13,18,50,Yes,High School,1,Yes,No,98,178,0
+3,Without International Code of Diseases,July,4,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,2
+7,Absences confirmed by the International Code of Diseases,July,5,Summer,279,5,14,39,No,High School,2,Yes,Yes,68,168,4
+11,Without International Code of Diseases,July,5,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,2
+3,Without International Code of Diseases,July,6,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,2
+10,Without International Code of Diseases,July,6,Summer,361,52,3,28,No,High School,1,Yes,No,80,172,8
+20,Without International Code of Diseases,July,6,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,4
+14,Absences confirmed by the International Code of Diseases,July,2,Summer,155,12,14,34,No,High School,2,Yes,No,95,196,40
+1,Without International Code of Diseases,July,2,Summer,235,11,14,37,No,Postgraduate,1,No,No,88,172,8
+20,Absences confirmed by the International Code of Diseases,July,2,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,8
+20,Absences confirmed by the International Code of Diseases,July,3,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,8
+20,Absences confirmed by the International Code of Diseases,July,4,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,8
+3,Absences confirmed by the International Code of Diseases,July,4,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,1
+3,Without International Code of Diseases,July,4,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,4
+24,Absences confirmed by the International Code of Diseases,July,6,Summer,246,25,16,41,No,High School,0,Yes,No,67,170,8
+3,Without International Code of Diseases,July,6,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,2
+3,Absences confirmed by the International Code of Diseases,July,2,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,8
+6,Absences confirmed by the International Code of Diseases,July,5,Summer,189,29,13,33,No,High School,2,No,No,69,167,8
+33,Without International Code of Diseases,August,4,Summer,248,25,14,47,No,High School,2,No,No,86,165,2
+18,Absences confirmed by the International Code of Diseases,August,4,Summer,330,16,4,28,No,Graduate,0,No,No,84,182,8
+3,Absences confirmed by the International Code of Diseases,August,2,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,1
+10,Absences confirmed by the International Code of Diseases,August,2,Summer,361,52,3,28,No,High School,1,Yes,No,80,172,40
+20,Without International Code of Diseases,August,6,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,4
+11,Absences confirmed by the International Code of Diseases,August,2,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,8
+10,Without International Code of Diseases,August,2,Summer,361,52,3,28,No,High School,1,Yes,No,80,172,7
+11,Without International Code of Diseases,August,3,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,1
+30,Without International Code of Diseases,August,4,Summer,157,27,6,29,No,High School,0,Yes,Yes,75,185,4
+11,Absences confirmed by the International Code of Diseases,August,4,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,8
+3,Without International Code of Diseases,August,6,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,2
+3,Absences confirmed by the International Code of Diseases,August,2,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,8
+2,Absences confirmed by the International Code of Diseases,August,5,Summer,235,29,12,48,No,High School,1,No,Yes,88,163,8
+1,Without International Code of Diseases,August,5,Summer,235,11,14,37,No,Postgraduate,1,No,No,88,172,4
+2,Absences confirmed by the International Code of Diseases,August,2,Summer,235,29,12,48,No,High School,1,No,Yes,88,163,8
+3,Without International Code of Diseases,August,2,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,2
+10,Without International Code of Diseases,August,2,Summer,361,52,3,28,No,High School,1,Yes,No,80,172,1
+11,Without International Code of Diseases,August,3,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,8
+19,Absences confirmed by the International Code of Diseases,August,5,Summer,291,50,12,32,No,High School,0,Yes,No,65,169,4
+2,Without International Code of Diseases,August,6,Summer,235,29,12,48,No,High School,1,No,Yes,88,163,8
+20,Without International Code of Diseases,August,6,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,4
+27,Without International Code of Diseases,September,3,Summer,184,42,7,27,No,High School,0,No,No,58,167,2
+34,Without International Code of Diseases,September,2,Summer,118,10,10,37,No,High School,0,No,No,83,172,4
+3,Without International Code of Diseases,September,3,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,4
+5,Absences confirmed by the International Code of Diseases,September,3,Summer,235,20,13,43,No,High School,1,Yes,No,106,167,8
+14,Without International Code of Diseases,September,4,Summer,155,12,14,34,No,High School,2,Yes,No,95,196,2
+34,Without International Code of Diseases,September,2,Summer,118,10,10,37,No,High School,0,No,No,83,172,3
+3,Without International Code of Diseases,September,3,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,3
+15,Without International Code of Diseases,September,5,Summer,291,31,12,40,No,High School,1,Yes,No,73,171,4
+20,Without International Code of Diseases,September,6,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,8
+15,Absences confirmed by the International Code of Diseases,September,2,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,32
+20,Absences confirmed by the International Code of Diseases,September,2,Spring,260,50,11,36,Yes,High School,4,Yes,No,65,168,0
+29,Absences confirmed by the International Code of Diseases,September,2,Spring,225,26,9,28,Yes,High School,1,No,No,69,169,0
+28,Without International Code of Diseases,September,3,Spring,225,26,9,28,No,High School,1,No,No,69,169,2
+34,Without International Code of Diseases,September,3,Spring,118,10,10,37,No,High School,0,No,No,83,172,2
+11,Absences confirmed by the International Code of Diseases,September,3,Spring,289,36,13,33,Yes,High School,2,Yes,No,90,172,0
+36,Absences confirmed by the International Code of Diseases,September,3,Spring,118,13,18,50,Yes,High School,1,Yes,No,98,178,0
+28,Absences confirmed by the International Code of Diseases,September,4,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+3,Without International Code of Diseases,September,4,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,3
+13,Absences confirmed by the International Code of Diseases,September,4,Spring,369,17,12,31,Yes,High School,3,Yes,No,70,169,0
+33,Without International Code of Diseases,September,6,Spring,248,25,14,47,No,High School,2,No,No,86,165,1
+3,Without International Code of Diseases,September,6,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,3
+20,Without International Code of Diseases,September,6,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,4
+3,Without International Code of Diseases,October,3,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,3
+34,Without International Code of Diseases,October,3,Spring,118,10,10,37,No,High School,0,No,No,83,172,3
+36,Absences confirmed by the International Code of Diseases,October,4,Spring,118,13,18,50,Yes,High School,1,Yes,No,98,178,0
+22,Without International Code of Diseases,October,5,Spring,179,26,9,30,No,Postgraduate,0,No,No,56,171,1
+3,Without International Code of Diseases,October,6,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,3
+28,Without International Code of Diseases,October,6,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+34,Without International Code of Diseases,October,3,Spring,118,10,10,37,No,High School,0,No,No,83,172,3
+28,Without International Code of Diseases,October,4,Spring,225,26,9,28,No,High School,1,No,No,69,169,2
+33,Without International Code of Diseases,October,4,Spring,248,25,14,47,No,High School,2,No,No,86,165,2
+15,Without International Code of Diseases,October,5,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,5
+3,Without International Code of Diseases,October,4,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,8
+28,Without International Code of Diseases,October,4,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+20,Absences confirmed by the International Code of Diseases,October,5,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,16
+15,Absences confirmed by the International Code of Diseases,October,3,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,8
+28,Without International Code of Diseases,October,3,Spring,225,26,9,28,No,High School,1,No,No,69,169,2
+11,Without International Code of Diseases,October,4,Spring,289,36,13,33,No,High School,2,Yes,No,90,172,8
+10,Without International Code of Diseases,October,6,Spring,361,52,3,28,No,High School,1,Yes,No,80,172,1
+20,Without International Code of Diseases,October,6,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,3
+3,Without International Code of Diseases,November,5,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+28,Without International Code of Diseases,November,4,Spring,225,26,9,28,No,High School,1,No,No,69,169,1
+3,Absences confirmed by the International Code of Diseases,November,5,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,8
+17,Absences confirmed by the International Code of Diseases,November,5,Spring,179,22,17,40,No,Graduate,2,No,Yes,63,170,8
+15,Without International Code of Diseases,November,5,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,5
+14,Absences confirmed by the International Code of Diseases,November,2,Spring,155,12,14,34,No,High School,2,Yes,No,95,196,32
+6,Without International Code of Diseases,November,2,Spring,189,29,13,33,No,High School,2,No,No,69,167,8
+15,Absences confirmed by the International Code of Diseases,November,2,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,40
+28,Without International Code of Diseases,November,4,Spring,225,26,9,28,No,High School,1,No,No,69,169,1
+14,Absences confirmed by the International Code of Diseases,November,6,Spring,155,12,14,34,No,High School,2,Yes,No,95,196,8
+28,Without International Code of Diseases,November,4,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+17,Absences confirmed by the International Code of Diseases,November,4,Spring,179,22,17,40,No,Graduate,2,No,Yes,63,170,8
+28,Absences confirmed by the International Code of Diseases,November,6,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+20,Without International Code of Diseases,November,6,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,4
+33,Without International Code of Diseases,November,2,Spring,248,25,14,47,No,High School,2,No,No,86,165,1
+28,Without International Code of Diseases,November,3,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+11,Absences confirmed by the International Code of Diseases,November,4,Spring,289,36,13,33,No,High School,2,Yes,No,90,172,24
+15,Without International Code of Diseases,November,5,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,3
+33,Without International Code of Diseases,December,3,Spring,248,25,14,47,No,High School,2,No,No,86,165,1
+34,Absences confirmed by the International Code of Diseases,December,3,Spring,118,10,10,37,No,High School,0,No,No,83,172,64
+36,Without International Code of Diseases,December,4,Spring,118,13,18,50,No,High School,1,Yes,No,98,178,2
+1,Without International Code of Diseases,December,4,Spring,235,11,14,37,No,Postgraduate,1,No,No,88,172,8
+28,Without International Code of Diseases,December,5,Spring,225,26,9,28,No,High School,1,No,No,69,169,2
+20,Without International Code of Diseases,December,6,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,8
+34,Absences confirmed by the International Code of Diseases,December,3,Spring,118,10,10,37,No,High School,0,No,No,83,172,56
+10,Without International Code of Diseases,December,4,Spring,361,52,3,28,No,High School,1,Yes,No,80,172,8
+28,Without International Code of Diseases,December,5,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+20,Without International Code of Diseases,December,6,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,3
+28,Without International Code of Diseases,December,3,Spring,225,26,9,28,No,High School,1,No,No,69,169,2
+10,Without International Code of Diseases,December,4,Spring,361,52,3,28,No,High School,1,Yes,No,80,172,8
+34,Without International Code of Diseases,December,6,Spring,118,10,10,37,No,High School,0,No,No,83,172,2
+24,Absences confirmed by the International Code of Diseases,December,6,Autumn,246,25,16,41,No,High School,0,Yes,No,67,170,8
+28,Without International Code of Diseases,December,6,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+28,Without International Code of Diseases,January,4,Autumn,225,26,9,28,No,High School,1,No,No,69,169,1
+34,Absences confirmed by the International Code of Diseases,January,2,Autumn,118,10,10,37,No,High School,0,No,No,83,172,1
+34,Without International Code of Diseases,January,3,Autumn,118,10,10,37,No,High School,0,No,No,83,172,1
+14,Absences confirmed by the International Code of Diseases,January,3,Autumn,155,12,14,34,No,High School,2,Yes,No,95,196,8
+28,Without International Code of Diseases,January,4,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+27,Without International Code of Diseases,January,5,Autumn,184,42,7,27,No,High School,0,No,No,58,167,2
+28,Without International Code of Diseases,January,5,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+28,Without International Code of Diseases,January,6,Autumn,225,26,9,28,No,High School,1,No,No,69,169,1
+34,Without International Code of Diseases,January,2,Autumn,118,10,10,37,No,High School,0,No,No,83,172,2
+28,Without International Code of Diseases,January,3,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+34,Without International Code of Diseases,January,3,Autumn,118,10,10,37,No,High School,0,No,No,83,172,2
+34,Without International Code of Diseases,January,4,Autumn,118,10,10,37,No,High School,0,No,No,83,172,2
+34,Without International Code of Diseases,January,5,Autumn,118,10,10,37,No,High School,0,No,No,83,172,2
+34,Without International Code of Diseases,January,6,Autumn,118,10,10,37,No,High School,0,No,No,83,172,2
+34,Without International Code of Diseases,January,2,Autumn,118,10,10,37,No,High School,0,No,No,83,172,2
+34,Without International Code of Diseases,January,3,Autumn,118,10,10,37,No,High School,0,No,No,83,172,2
+22,Absences confirmed by the International Code of Diseases,January,3,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,8
+11,Absences confirmed by the International Code of Diseases,January,3,Autumn,289,36,13,33,No,High School,2,Yes,No,90,172,8
+34,Without International Code of Diseases,January,4,Autumn,118,10,10,37,No,High School,0,No,No,83,172,2
+27,Without International Code of Diseases,January,5,Autumn,184,42,7,27,No,High School,0,No,No,58,167,2
+34,Without International Code of Diseases,January,5,Autumn,118,10,10,37,No,High School,0,No,No,83,172,2
+34,Without International Code of Diseases,January,2,Autumn,118,10,10,37,No,High School,0,No,No,83,172,0
+28,Without International Code of Diseases,January,3,Autumn,225,26,9,28,No,High School,1,No,No,69,169,1
+11,Without International Code of Diseases,January,5,Autumn,289,36,13,33,No,High School,2,Yes,No,90,172,3
+27,Without International Code of Diseases,February,6,Autumn,184,42,7,27,No,High School,0,No,No,58,167,1
+24,Absences confirmed by the International Code of Diseases,February,4,Autumn,246,25,16,41,No,High School,0,Yes,No,67,170,8
+3,Absences confirmed by the International Code of Diseases,February,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,8
+14,Without International Code of Diseases,February,5,Autumn,155,12,14,34,No,High School,2,Yes,No,95,196,2
+6,Without International Code of Diseases,February,5,Autumn,189,29,13,33,No,High School,2,No,No,69,167,8
+20,Without International Code of Diseases,February,6,Autumn,260,50,11,36,No,High School,4,Yes,No,65,168,2
+11,Without International Code of Diseases,February,6,Autumn,289,36,13,33,No,High School,2,Yes,No,90,172,8
+31,Absences confirmed by the International Code of Diseases,February,2,Autumn,388,15,9,50,No,High School,0,No,No,76,178,8
+31,Absences confirmed by the International Code of Diseases,February,3,Autumn,388,15,9,50,No,High School,0,No,No,76,178,8
+28,Without International Code of Diseases,February,2,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+28,Without International Code of Diseases,February,3,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+22,Without International Code of Diseases,February,3,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,1
+27,Without International Code of Diseases,February,3,Autumn,184,42,7,27,No,High School,0,No,No,58,167,8
+28,Without International Code of Diseases,February,5,Autumn,225,26,9,28,No,High School,1,No,No,69,169,3
+18,Absences confirmed by the International Code of Diseases,February,2,Autumn,330,16,4,28,No,Graduate,0,No,No,84,182,8
+18,Without International Code of Diseases,February,3,Autumn,330,16,4,28,No,Graduate,0,No,No,84,182,1
+28,Without International Code of Diseases,February,4,Autumn,225,26,9,28,No,High School,1,No,No,69,169,1
+6,Absences confirmed by the International Code of Diseases,February,5,Autumn,189,29,13,33,No,High School,2,No,No,69,167,8
+19,Without International Code of Diseases,March,3,Autumn,291,50,12,32,No,High School,0,Yes,No,65,169,2
+20,Absences confirmed by the International Code of Diseases,March,3,Autumn,260,50,11,36,No,High School,4,Yes,No,65,168,8
+30,Absences confirmed by the International Code of Diseases,March,3,Autumn,157,27,6,29,No,High School,0,Yes,Yes,75,185,3
+17,Absences confirmed by the International Code of Diseases,March,3,Autumn,179,22,17,40,No,Graduate,2,No,Yes,63,170,8
+15,Without International Code of Diseases,March,4,Autumn,291,31,12,40,No,High School,1,Yes,No,73,171,8
+20,Absences confirmed by the International Code of Diseases,March,4,Autumn,260,50,11,36,No,High School,4,Yes,No,65,168,8
+22,Absences confirmed by the International Code of Diseases,March,5,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,8
+33,Absences confirmed by the International Code of Diseases,March,6,Autumn,248,25,14,47,No,High School,2,No,No,86,165,3
+20,Absences confirmed by the International Code of Diseases,March,6,Autumn,260,50,11,36,No,High School,4,Yes,No,65,168,40
+17,Absences confirmed by the International Code of Diseases,March,2,Autumn,179,22,17,40,No,Graduate,2,No,Yes,63,170,40
+14,Absences confirmed by the International Code of Diseases,March,2,Autumn,155,12,14,34,No,High School,2,Yes,No,95,196,16
+20,Without International Code of Diseases,March,2,Autumn,260,50,11,36,No,High School,4,Yes,No,65,168,16
+14,Absences confirmed by the International Code of Diseases,March,3,Autumn,155,12,14,34,No,High School,2,Yes,No,95,196,8
+11,Absences confirmed by the International Code of Diseases,March,5,Autumn,289,36,13,33,No,High School,2,Yes,No,90,172,8
+17,Absences confirmed by the International Code of Diseases,March,5,Autumn,179,22,17,40,No,Graduate,2,No,Yes,63,170,8
+20,Without International Code of Diseases,March,6,Autumn,260,50,11,36,No,High School,4,Yes,No,65,168,4
+28,Without International Code of Diseases,March,6,Autumn,225,26,9,28,No,High School,1,No,No,69,169,1
+7,Absences confirmed by the International Code of Diseases,March,2,Autumn,279,5,14,39,No,High School,2,Yes,Yes,68,168,8
+3,Absences confirmed by the International Code of Diseases,March,3,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,24
+28,Without International Code of Diseases,March,4,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+28,Absences confirmed by the International Code of Diseases,March,2,Winter,225,26,9,28,No,High School,1,No,No,69,169,8
+22,Absences confirmed by the International Code of Diseases,March,2,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,1
+28,Absences confirmed by the International Code of Diseases,March,3,Winter,225,26,9,28,No,High School,1,No,No,69,169,8
+28,Absences confirmed by the International Code of Diseases,March,4,Winter,225,26,9,28,No,High School,1,No,No,69,169,16
+3,Absences confirmed by the International Code of Diseases,March,4,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,3
+7,Absences confirmed by the International Code of Diseases,March,5,Winter,279,5,14,39,No,High School,2,Yes,Yes,68,168,16
+28,Without International Code of Diseases,March,6,Winter,225,26,9,28,No,High School,1,No,No,69,169,2
+33,Absences confirmed by the International Code of Diseases,March,6,Winter,248,25,14,47,No,High School,2,No,No,86,165,3
+28,Without International Code of Diseases,March,2,Winter,225,26,9,28,No,High School,1,No,No,69,169,1
+15,Without International Code of Diseases,April,4,Winter,291,31,12,40,No,High School,1,Yes,No,73,171,1
+28,Without International Code of Diseases,April,4,Winter,225,26,9,28,No,High School,1,No,No,69,169,1
+14,Without International Code of Diseases,April,3,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,1
+24,Absences confirmed by the International Code of Diseases,April,4,Winter,246,25,16,41,No,High School,0,Yes,No,67,170,24
+14,Without International Code of Diseases,April,5,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,1
+28,Without International Code of Diseases,April,6,Winter,225,26,9,28,No,High School,1,No,No,69,169,2
+20,Without International Code of Diseases,April,6,Winter,260,50,11,36,No,High School,4,Yes,No,65,168,4
+3,Absences confirmed by the International Code of Diseases,April,4,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,24
+36,Without International Code of Diseases,April,5,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,1
+15,Without International Code of Diseases,April,6,Winter,291,31,12,40,No,High School,1,Yes,No,73,171,3
+24,Absences confirmed by the International Code of Diseases,April,6,Winter,246,25,16,41,No,High School,0,Yes,No,67,170,8
+15,Without International Code of Diseases,April,6,Winter,291,31,12,40,No,High School,1,Yes,No,73,171,1
+33,Without International Code of Diseases,April,6,Winter,248,25,14,47,No,High School,2,No,No,86,165,8
+20,Absences confirmed by the International Code of Diseases,April,6,Winter,260,50,11,36,No,High School,4,Yes,No,65,168,56
+11,Absences confirmed by the International Code of Diseases,April,3,Winter,289,36,13,33,No,High School,2,Yes,No,90,172,8
+14,Absences confirmed by the International Code of Diseases,April,4,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,24
+23,Absences confirmed by the International Code of Diseases,April,4,Winter,378,49,11,36,No,High School,2,No,Yes,65,174,8
+11,Absences confirmed by the International Code of Diseases,April,5,Winter,289,36,13,33,No,High School,2,Yes,No,90,172,16
+1,Absences confirmed by the International Code of Diseases,April,6,Winter,235,11,14,37,No,Postgraduate,1,No,No,88,172,3
+2,Absences confirmed by the International Code of Diseases,April,2,Winter,235,29,12,48,Yes,High School,1,No,Yes,88,163,0
+11,Absences confirmed by the International Code of Diseases,May,4,Winter,289,36,13,33,No,High School,2,Yes,No,90,172,8
+14,Without International Code of Diseases,May,5,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,2
+14,Without International Code of Diseases,May,2,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,1
+3,Absences confirmed by the International Code of Diseases,May,3,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,8
+28,Absences confirmed by the International Code of Diseases,May,3,Winter,225,26,9,28,No,High School,1,No,No,69,169,8
+27,Absences confirmed by the International Code of Diseases,May,4,Winter,184,42,7,27,No,High School,0,No,No,58,167,4
+14,Without International Code of Diseases,May,2,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,2
+3,Absences confirmed by the International Code of Diseases,May,3,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,1
+11,Absences confirmed by the International Code of Diseases,May,4,Winter,289,36,13,33,No,High School,2,Yes,No,90,172,24
+7,Absences confirmed by the International Code of Diseases,May,4,Winter,279,5,14,39,Yes,High School,2,Yes,Yes,68,168,0
+18,Absences confirmed by the International Code of Diseases,May,4,Winter,330,16,4,28,Yes,Graduate,0,No,No,84,182,0
+23,Absences confirmed by the International Code of Diseases,May,4,Winter,378,49,11,36,Yes,High School,2,No,Yes,65,174,0
+31,Absences confirmed by the International Code of Diseases,May,4,Winter,388,15,9,50,Yes,High School,0,No,No,76,178,0
+3,Absences confirmed by the International Code of Diseases,May,3,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,1
+36,Absences confirmed by the International Code of Diseases,May,4,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,24
+10,Without International Code of Diseases,May,6,Winter,361,52,3,28,No,High School,1,Yes,No,80,172,8
+24,Absences confirmed by the International Code of Diseases,June,2,Winter,246,25,16,41,No,High School,0,Yes,No,67,170,8
+10,Without International Code of Diseases,June,2,Winter,361,52,3,28,No,High School,1,Yes,No,80,172,8
+24,Absences confirmed by the International Code of Diseases,June,3,Winter,246,25,16,41,No,High School,0,Yes,No,67,170,24
+15,Without International Code of Diseases,June,5,Winter,291,31,12,40,No,High School,1,Yes,No,73,171,4
+24,Absences confirmed by the International Code of Diseases,June,6,Winter,246,25,16,41,No,High School,0,Yes,No,67,170,8
+3,Absences confirmed by the International Code of Diseases,June,2,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,8
+14,Without International Code of Diseases,June,2,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,4
+24,Absences confirmed by the International Code of Diseases,June,2,Winter,246,25,16,41,No,High School,0,Yes,No,67,170,8
+36,Absences confirmed by the International Code of Diseases,June,4,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,8
+1,Absences confirmed by the International Code of Diseases,June,6,Winter,235,11,14,37,No,Postgraduate,1,No,No,88,172,16
+36,Without International Code of Diseases,June,3,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,1
+36,Absences confirmed by the International Code of Diseases,June,4,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,80
+23,Without International Code of Diseases,June,5,Winter,378,49,11,36,No,High School,2,No,Yes,65,174,8
+3,Absences confirmed by the International Code of Diseases,June,6,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,2
+32,Without International Code of Diseases,June,2,Summer,289,48,29,49,No,High School,0,No,No,108,172,2
+28,Without International Code of Diseases,June,5,Summer,225,26,9,28,No,High School,1,No,No,69,169,2
+14,Absences confirmed by the International Code of Diseases,July,3,Summer,155,12,14,34,No,High School,2,Yes,No,95,196,16
+36,Absences confirmed by the International Code of Diseases,July,4,Summer,118,13,18,50,No,High School,1,Yes,No,98,178,8
+34,Absences confirmed by the International Code of Diseases,July,6,Summer,118,10,10,37,No,High School,0,No,No,83,172,8
+34,Without International Code of Diseases,July,6,Summer,118,10,10,37,No,High School,0,No,No,83,172,4
+18,Without International Code of Diseases,July,3,Summer,330,16,4,28,No,Graduate,0,No,No,84,182,8
+22,Absences confirmed by the International Code of Diseases,July,5,Summer,179,26,9,30,No,Postgraduate,0,No,No,56,171,8
+14,Without International Code of Diseases,July,6,Summer,155,12,14,34,No,High School,2,Yes,No,95,196,2
+18,Absences confirmed by the International Code of Diseases,July,2,Summer,330,16,4,28,No,Graduate,0,No,No,84,182,8
+18,Absences confirmed by the International Code of Diseases,July,3,Summer,330,16,4,28,No,Graduate,0,No,No,84,182,8
+30,Without International Code of Diseases,July,2,Summer,157,27,6,29,No,High School,0,Yes,Yes,75,185,3
+10,Without International Code of Diseases,July,3,Summer,361,52,3,28,No,High School,1,Yes,No,80,172,8
+11,Without International Code of Diseases,July,4,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,8
+3,Without International Code of Diseases,July,5,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,8
+11,Absences confirmed by the International Code of Diseases,July,2,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,32
+11,Absences confirmed by the International Code of Diseases,July,5,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,8
+20,Absences confirmed by the International Code of Diseases,July,5,Summer,260,50,11,36,Yes,High School,4,Yes,No,65,168,0
+11,Absences confirmed by the International Code of Diseases,August,6,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,8
+30,Absences confirmed by the International Code of Diseases,August,6,Summer,157,27,6,29,No,High School,0,Yes,Yes,75,185,3
+11,Without International Code of Diseases,August,2,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,1
+9,Absences confirmed by the International Code of Diseases,August,3,Summer,228,14,16,58,No,High School,2,No,No,65,172,8
+26,Absences confirmed by the International Code of Diseases,August,5,Summer,300,26,13,43,No,High School,2,Yes,Yes,77,175,1
+26,Absences confirmed by the International Code of Diseases,August,5,Summer,300,26,13,43,No,High School,2,Yes,Yes,77,175,2
+20,Without International Code of Diseases,August,6,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,4
+11,Without International Code of Diseases,August,3,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,4
+33,Without International Code of Diseases,August,4,Summer,248,25,14,47,No,High School,2,No,No,86,165,1
+21,Absences confirmed by the International Code of Diseases,August,5,Summer,268,11,8,33,No,Graduate,0,No,No,79,178,8
+22,Without International Code of Diseases,August,5,Summer,179,26,9,30,No,Postgraduate,0,No,No,56,171,1
+36,Absences confirmed by the International Code of Diseases,August,5,Summer,118,13,18,50,No,High School,1,Yes,No,98,178,3
+33,Without International Code of Diseases,August,2,Summer,248,25,14,47,No,High School,2,No,No,86,165,2
+1,Without International Code of Diseases,August,3,Summer,235,11,14,37,No,Postgraduate,1,No,No,88,172,1
+36,Without International Code of Diseases,August,5,Summer,118,13,18,50,No,High School,1,Yes,No,98,178,1
+1,Absences confirmed by the International Code of Diseases,August,5,Summer,235,11,14,37,No,Postgraduate,1,No,No,88,172,8
+10,Absences confirmed by the International Code of Diseases,August,3,Summer,361,52,3,28,No,High School,1,Yes,No,80,172,8
+27,Absences confirmed by the International Code of Diseases,August,4,Summer,184,42,7,27,No,High School,0,No,No,58,167,8
+3,Absences confirmed by the International Code of Diseases,September,2,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,8
+3,Without International Code of Diseases,September,6,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,3
+11,Absences confirmed by the International Code of Diseases,September,4,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,24
+5,Absences confirmed by the International Code of Diseases,September,5,Summer,235,20,13,43,Yes,High School,1,Yes,No,106,167,0
+24,Absences confirmed by the International Code of Diseases,September,2,Summer,246,25,16,41,No,High School,0,Yes,No,67,170,16
+15,Without International Code of Diseases,September,3,Summer,291,31,12,40,No,High School,1,Yes,No,73,171,3
+8,Absences confirmed by the International Code of Diseases,September,3,Summer,231,35,14,39,Yes,High School,2,Yes,No,100,170,0
+19,Absences confirmed by the International Code of Diseases,September,3,Summer,291,50,12,32,Yes,High School,0,Yes,No,65,169,0
+3,Absences confirmed by the International Code of Diseases,September,4,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,8
+24,Absences confirmed by the International Code of Diseases,September,4,Summer,246,25,16,41,No,High School,0,Yes,No,67,170,32
+3,Without International Code of Diseases,September,5,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,1
+15,Without International Code of Diseases,September,6,Summer,291,31,12,40,No,High School,1,Yes,No,73,171,4
+20,Without International Code of Diseases,September,6,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,4
+5,Without International Code of Diseases,September,4,Spring,235,20,13,43,No,High School,1,Yes,No,106,167,8
+36,Without International Code of Diseases,September,5,Spring,118,13,18,50,No,High School,1,Yes,No,98,178,1
+5,Absences confirmed by the International Code of Diseases,September,5,Spring,235,20,13,43,Yes,High School,1,Yes,No,106,167,0
+15,Without International Code of Diseases,September,6,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,3
+15,Absences confirmed by the International Code of Diseases,September,2,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,40
+3,Absences confirmed by the International Code of Diseases,September,2,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,8
+11,Without International Code of Diseases,October,2,Spring,289,36,13,33,No,High School,2,Yes,No,90,172,8
+1,Without International Code of Diseases,October,2,Spring,235,11,14,37,No,Postgraduate,1,No,No,88,172,4
+11,Without International Code of Diseases,October,2,Spring,289,36,13,33,No,High School,2,Yes,No,90,172,8
+11,Without International Code of Diseases,October,6,Spring,289,36,13,33,No,High School,2,Yes,No,90,172,8
+36,Absences confirmed by the International Code of Diseases,October,6,Spring,118,13,18,50,Yes,High School,1,Yes,No,98,178,0
+33,Absences confirmed by the International Code of Diseases,October,6,Spring,248,25,14,47,Yes,High School,2,No,No,86,165,0
+22,Absences confirmed by the International Code of Diseases,October,2,Spring,179,26,9,30,No,Postgraduate,0,No,No,56,171,8
+34,Absences confirmed by the International Code of Diseases,October,2,Spring,118,10,10,37,No,High School,0,No,No,83,172,3
+13,Without International Code of Diseases,October,2,Spring,369,17,12,31,No,High School,3,Yes,No,70,169,8
+3,Without International Code of Diseases,October,4,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+22,Absences confirmed by the International Code of Diseases,October,4,Spring,179,26,9,30,No,Postgraduate,0,No,No,56,171,64
+5,Absences confirmed by the International Code of Diseases,October,4,Spring,235,20,13,43,Yes,High School,1,Yes,No,106,167,0
+11,Absences confirmed by the International Code of Diseases,October,5,Spring,289,36,13,33,No,High School,2,Yes,No,90,172,16
+20,Without International Code of Diseases,October,6,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,3
+5,Absences confirmed by the International Code of Diseases,October,6,Spring,235,20,13,43,Yes,High School,1,Yes,No,106,167,0
+5,Without International Code of Diseases,October,2,Spring,235,20,13,43,No,High School,1,Yes,No,106,167,2
+5,Without International Code of Diseases,October,2,Spring,235,20,13,43,No,High School,1,Yes,No,106,167,2
+36,Without International Code of Diseases,October,3,Spring,118,13,18,50,No,High School,1,Yes,No,98,178,1
+15,Without International Code of Diseases,October,3,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,4
+22,Without International Code of Diseases,October,5,Spring,179,26,9,30,No,Postgraduate,0,No,No,56,171,16
+36,Without International Code of Diseases,October,5,Spring,118,13,18,50,No,High School,1,Yes,No,98,178,1
+10,Absences confirmed by the International Code of Diseases,October,2,Spring,361,52,3,28,No,High School,1,Yes,No,80,172,8
+20,Absences confirmed by the International Code of Diseases,October,3,Spring,260,50,11,36,Yes,High School,4,Yes,No,65,168,0
+15,Absences confirmed by the International Code of Diseases,October,3,Spring,291,31,12,40,Yes,High School,1,Yes,No,73,171,0
+30,Absences confirmed by the International Code of Diseases,October,3,Spring,157,27,6,29,Yes,High School,0,Yes,Yes,75,185,0
+22,Absences confirmed by the International Code of Diseases,October,4,Spring,179,26,9,30,No,Postgraduate,0,No,No,56,171,5
+22,Absences confirmed by the International Code of Diseases,October,4,Spring,179,26,9,30,No,Postgraduate,0,No,No,56,171,5
+36,Without International Code of Diseases,October,5,Spring,118,13,18,50,No,High School,1,Yes,No,98,178,1
+34,Absences confirmed by the International Code of Diseases,November,2,Spring,118,10,10,37,No,High School,0,No,No,83,172,8
+33,Without International Code of Diseases,November,2,Spring,248,25,14,47,No,High School,2,No,No,86,165,2
+3,Absences confirmed by the International Code of Diseases,November,3,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,8
+20,Without International Code of Diseases,November,6,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,3
+15,Without International Code of Diseases,November,2,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,1
+23,Absences confirmed by the International Code of Diseases,November,2,Spring,378,49,11,36,No,High School,2,No,Yes,65,174,8
+14,Absences confirmed by the International Code of Diseases,November,2,Spring,155,12,14,34,No,High School,2,Yes,No,95,196,120
+5,Without International Code of Diseases,November,2,Spring,235,20,13,43,No,High School,1,Yes,No,106,167,8
+18,Absences confirmed by the International Code of Diseases,November,3,Spring,330,16,4,28,Yes,Graduate,0,No,No,84,182,0
+1,Absences confirmed by the International Code of Diseases,November,4,Spring,235,11,14,37,No,Postgraduate,1,No,No,88,172,1
+34,Absences confirmed by the International Code of Diseases,November,4,Spring,118,10,10,37,No,High School,0,No,No,83,172,3
+1,Without International Code of Diseases,November,5,Spring,235,11,14,37,No,Postgraduate,1,No,No,88,172,2
+3,Without International Code of Diseases,November,5,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,3
+24,Absences confirmed by the International Code of Diseases,November,6,Spring,246,25,16,41,No,High School,0,Yes,No,67,170,8
+15,Absences confirmed by the International Code of Diseases,November,6,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,4
+24,Absences confirmed by the International Code of Diseases,November,2,Spring,246,25,16,41,No,High School,0,Yes,No,67,170,8
+3,Without International Code of Diseases,November,3,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+20,Absences confirmed by the International Code of Diseases,November,4,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,8
+20,Absences confirmed by the International Code of Diseases,November,6,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,8
+23,Absences confirmed by the International Code of Diseases,November,6,Spring,378,49,11,36,Yes,High School,2,No,Yes,65,174,0
+7,Absences confirmed by the International Code of Diseases,November,3,Spring,279,5,14,39,Yes,High School,2,Yes,Yes,68,168,0
+3,Without International Code of Diseases,November,5,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+28,Absences confirmed by the International Code of Diseases,December,2,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+3,Without International Code of Diseases,December,2,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,2
+3,Without International Code of Diseases,December,2,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+1,Without International Code of Diseases,December,2,Spring,235,11,14,37,No,Postgraduate,1,No,No,88,172,3
+36,Without International Code of Diseases,December,3,Spring,118,13,18,50,No,High School,1,Yes,No,98,178,1
+20,Without International Code of Diseases,December,6,Spring,260,50,11,36,No,High School,4,Yes,No,65,168,4
+24,Absences confirmed by the International Code of Diseases,December,5,Spring,246,25,16,41,No,High School,0,Yes,No,67,170,8
+3,Without International Code of Diseases,December,5,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+3,Without International Code of Diseases,December,6,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+22,Without International Code of Diseases,December,3,Spring,179,26,9,30,No,Postgraduate,0,No,No,56,171,1
+34,Without International Code of Diseases,December,3,Spring,118,10,10,37,No,High School,0,No,No,83,172,8
+1,Without International Code of Diseases,December,5,Spring,235,11,14,37,No,Postgraduate,1,No,No,88,172,2
+3,Without International Code of Diseases,December,6,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+5,Absences confirmed by the International Code of Diseases,December,3,Autumn,235,20,13,43,No,High School,1,Yes,No,106,167,8
+1,Absences confirmed by the International Code of Diseases,December,3,Autumn,235,11,14,37,No,Postgraduate,1,No,No,88,172,4
+20,Without International Code of Diseases,December,4,Autumn,260,50,11,36,No,High School,4,Yes,No,65,168,8
+30,Without International Code of Diseases,December,2,Autumn,157,27,6,29,No,High School,0,Yes,Yes,75,185,2
+3,Without International Code of Diseases,December,2,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+11,Absences confirmed by the International Code of Diseases,December,2,Autumn,289,36,13,33,No,High School,2,Yes,No,90,172,8
+28,Without International Code of Diseases,January,4,Autumn,225,26,9,28,No,High School,1,No,No,69,169,5
+34,Absences confirmed by the International Code of Diseases,January,2,Autumn,118,10,10,37,No,High School,0,No,No,83,172,32
+14,Without International Code of Diseases,January,2,Autumn,155,12,14,34,No,High School,2,Yes,No,95,196,2
+1,Absences confirmed by the International Code of Diseases,January,3,Autumn,235,11,14,37,No,Postgraduate,1,No,No,88,172,1
+14,Without International Code of Diseases,January,3,Autumn,155,12,14,34,No,High School,2,Yes,No,95,196,4
+11,Without International Code of Diseases,January,2,Autumn,289,36,13,33,No,High School,2,Yes,No,90,172,8
+15,Absences confirmed by the International Code of Diseases,January,4,Autumn,291,31,12,40,No,High School,1,Yes,No,73,171,8
+5,Without International Code of Diseases,January,2,Autumn,235,20,13,43,No,High School,1,Yes,No,106,167,8
+36,Without International Code of Diseases,January,2,Autumn,118,13,18,50,No,High School,1,Yes,No,98,178,4
+3,Without International Code of Diseases,January,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,1
+3,Without International Code of Diseases,January,6,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,1
+34,Without International Code of Diseases,February,3,Autumn,118,10,10,37,No,High School,0,No,No,83,172,2
+3,Without International Code of Diseases,February,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+28,Absences confirmed by the International Code of Diseases,February,4,Autumn,225,26,9,28,No,High School,1,No,No,69,169,1
+11,Without International Code of Diseases,February,6,Autumn,289,36,13,33,No,High School,2,Yes,No,90,172,3
+20,Without International Code of Diseases,February,6,Autumn,260,50,11,36,No,High School,4,Yes,No,65,168,3
+3,Without International Code of Diseases,February,6,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+3,Without International Code of Diseases,February,2,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+3,Without International Code of Diseases,February,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+3,Absences confirmed by the International Code of Diseases,February,5,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,8
+24,Without International Code of Diseases,February,5,Autumn,246,25,16,41,No,High School,0,Yes,No,67,170,8
+3,Without International Code of Diseases,February,6,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+6,Without International Code of Diseases,February,2,Autumn,189,29,13,33,No,High School,2,No,No,69,167,8
+3,Without International Code of Diseases,February,2,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+24,Without International Code of Diseases,February,3,Autumn,246,25,16,41,No,High School,0,Yes,No,67,170,2
+15,Without International Code of Diseases,February,3,Autumn,291,31,12,40,No,High School,1,Yes,No,73,171,2
+30,Absences confirmed by the International Code of Diseases,February,4,Autumn,157,27,6,29,No,High School,0,Yes,Yes,75,185,16
+3,Without International Code of Diseases,February,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+3,Without International Code of Diseases,February,6,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+24,Absences confirmed by the International Code of Diseases,February,6,Autumn,246,25,16,41,No,High School,0,Yes,No,67,170,24
+3,Without International Code of Diseases,February,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+3,Without International Code of Diseases,February,6,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+34,Absences confirmed by the International Code of Diseases,March,3,Autumn,118,10,10,37,No,High School,0,No,No,83,172,8
+24,Absences confirmed by the International Code of Diseases,March,4,Autumn,246,25,16,41,No,High School,0,Yes,No,67,170,16
+24,Without International Code of Diseases,March,6,Autumn,246,25,16,41,No,High School,0,Yes,No,67,170,2
+20,Without International Code of Diseases,March,6,Autumn,260,50,11,36,No,High School,4,Yes,No,65,168,4
+3,Without International Code of Diseases,March,2,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+1,Without International Code of Diseases,March,2,Autumn,235,11,14,37,No,Postgraduate,1,No,No,88,172,8
+17,Without International Code of Diseases,March,3,Autumn,179,22,17,40,No,Graduate,2,No,Yes,63,170,8
+23,Without International Code of Diseases,March,3,Autumn,378,49,11,36,No,High School,2,No,Yes,65,174,8
+3,Without International Code of Diseases,March,2,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,16
+10,Without International Code of Diseases,March,4,Autumn,361,52,3,28,No,High School,1,Yes,No,80,172,8
+13,Absences confirmed by the International Code of Diseases,March,4,Autumn,369,17,12,31,Yes,High School,3,Yes,No,70,169,0
+1,Absences confirmed by the International Code of Diseases,March,5,Autumn,235,11,14,37,No,Postgraduate,1,No,No,88,172,8
+36,Without International Code of Diseases,March,6,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,2
+36,Absences confirmed by the International Code of Diseases,March,3,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,3
+36,Absences confirmed by the International Code of Diseases,March,4,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,8
+1,Absences confirmed by the International Code of Diseases,March,5,Winter,235,11,14,37,Yes,Postgraduate,1,No,No,88,172,0
+24,Absences confirmed by the International Code of Diseases,March,5,Winter,246,25,16,41,Yes,High School,0,Yes,No,67,170,0
+36,Absences confirmed by the International Code of Diseases,March,5,Winter,118,13,18,50,Yes,High School,1,Yes,No,98,178,0
+3,Without International Code of Diseases,March,6,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,8
+11,Without International Code of Diseases,March,6,Winter,289,36,13,33,No,High School,2,Yes,No,90,172,8
+20,Absences confirmed by the International Code of Diseases,March,2,Winter,260,50,11,36,No,High School,4,Yes,No,65,168,8
+24,Without International Code of Diseases,March,3,Winter,246,25,16,41,No,High School,0,Yes,No,67,170,2
+3,Without International Code of Diseases,April,4,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,4
+20,Without International Code of Diseases,April,6,Winter,260,50,11,36,No,High School,4,Yes,No,65,168,3
+18,Without International Code of Diseases,April,6,Winter,330,16,4,28,No,Graduate,0,No,No,84,182,4
+13,Without International Code of Diseases,April,2,Winter,369,17,12,31,No,High School,3,Yes,No,70,169,4
+33,Without International Code of Diseases,April,2,Winter,248,25,14,47,No,High School,2,No,No,86,165,4
+18,Without International Code of Diseases,April,4,Winter,330,16,4,28,No,Graduate,0,No,No,84,182,8
+3,Without International Code of Diseases,April,4,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,8
+36,Without International Code of Diseases,April,2,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,1
+36,Absences confirmed by the International Code of Diseases,April,4,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,120
+26,Without International Code of Diseases,April,6,Winter,300,26,13,43,No,High School,2,Yes,Yes,77,175,8
+20,Without International Code of Diseases,April,6,Winter,260,50,11,36,No,High School,4,Yes,No,65,168,4
+3,Without International Code of Diseases,April,2,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,4
+34,Absences confirmed by the International Code of Diseases,April,4,Winter,118,10,10,37,No,High School,0,No,No,83,172,2
+5,Absences confirmed by the International Code of Diseases,May,2,Winter,235,20,13,43,No,High School,1,Yes,No,106,167,16
+33,Without International Code of Diseases,May,4,Winter,248,25,14,47,No,High School,2,No,No,86,165,2
+13,Absences confirmed by the International Code of Diseases,May,2,Winter,369,17,12,31,No,High School,3,Yes,No,70,169,8
+22,Without International Code of Diseases,May,4,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,3
+3,Without International Code of Diseases,May,4,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,4
+10,Without International Code of Diseases,May,5,Winter,361,52,3,28,No,High School,1,Yes,No,80,172,1
+20,Without International Code of Diseases,May,6,Winter,260,50,11,36,No,High School,4,Yes,No,65,168,3
+17,Absences confirmed by the International Code of Diseases,May,2,Winter,179,22,17,40,No,Graduate,2,No,Yes,63,170,2
+17,Absences confirmed by the International Code of Diseases,May,2,Winter,179,22,17,40,No,Graduate,2,No,Yes,63,170,3
+9,Absences confirmed by the International Code of Diseases,May,4,Winter,228,14,16,58,No,High School,2,No,No,65,172,8
+28,Without International Code of Diseases,May,4,Winter,225,26,9,28,No,High School,1,No,No,69,169,3
+18,Absences confirmed by the International Code of Diseases,May,6,Winter,330,16,4,28,No,Graduate,0,No,No,84,182,8
+22,Without International Code of Diseases,May,2,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+34,Without International Code of Diseases,May,2,Winter,118,10,10,37,No,High School,0,No,No,83,172,1
+1,Absences confirmed by the International Code of Diseases,May,2,Winter,235,11,14,37,No,Postgraduate,1,No,No,88,172,8
+22,Without International Code of Diseases,May,4,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,3
+34,Without International Code of Diseases,June,2,Winter,118,10,10,37,No,High School,0,No,No,83,172,3
+3,Without International Code of Diseases,June,2,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,3
+34,Without International Code of Diseases,June,3,Winter,118,10,10,37,No,High School,0,No,No,83,172,2
+28,Without International Code of Diseases,June,5,Winter,225,26,9,28,No,High School,1,No,No,69,169,4
+20,Without International Code of Diseases,June,6,Winter,260,50,11,36,No,High School,4,Yes,No,65,168,4
+3,Absences confirmed by the International Code of Diseases,June,6,Winter,179,51,18,38,Yes,High School,0,Yes,No,89,170,0
+15,Absences confirmed by the International Code of Diseases,June,2,Winter,291,31,12,40,No,High School,1,Yes,No,73,171,40
+3,Without International Code of Diseases,June,2,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,24
+24,Without International Code of Diseases,June,3,Winter,246,25,16,41,No,High School,0,Yes,No,67,170,3
+3,Without International Code of Diseases,June,2,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,4
+5,Without International Code of Diseases,June,3,Winter,235,20,13,43,No,High School,1,Yes,No,106,167,8
+3,Without International Code of Diseases,June,2,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,2
+28,Without International Code of Diseases,June,4,Summer,225,26,9,28,No,High School,1,No,No,69,169,2
+36,Without International Code of Diseases,June,4,Summer,118,13,18,50,No,High School,1,Yes,No,98,178,2
+3,Absences confirmed by the International Code of Diseases,June,4,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,8
+22,Absences confirmed by the International Code of Diseases,June,4,Summer,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+24,Without International Code of Diseases,June,6,Summer,246,25,16,41,No,High School,0,Yes,No,67,170,2
+18,Absences confirmed by the International Code of Diseases,June,3,Summer,330,16,4,28,No,Graduate,0,No,No,84,182,1
+1,Absences confirmed by the International Code of Diseases,June,3,Summer,235,11,14,37,No,Postgraduate,1,No,No,88,172,8
+22,Without International Code of Diseases,July,5,Summer,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+28,Without International Code of Diseases,July,5,Summer,225,26,9,28,No,High School,1,No,No,69,169,4
+20,Absences confirmed by the International Code of Diseases,July,6,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,8
+21,Absences confirmed by the International Code of Diseases,July,2,Summer,268,11,8,33,No,Graduate,0,No,No,79,178,8
+18,Without International Code of Diseases,July,6,Summer,330,16,4,28,No,Graduate,0,No,No,84,182,8
+34,Without International Code of Diseases,July,6,Summer,118,10,10,37,No,High School,0,No,No,83,172,8
+20,Without International Code of Diseases,July,2,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,4
+34,Without International Code of Diseases,July,3,Summer,118,10,10,37,No,High School,0,No,No,83,172,8
+26,Absences confirmed by the International Code of Diseases,July,2,Summer,300,26,13,43,No,High School,2,Yes,Yes,77,175,8
+2,Without International Code of Diseases,July,2,Summer,235,29,12,48,No,High School,1,No,Yes,88,163,1
+24,Without International Code of Diseases,July,3,Summer,246,25,16,41,No,High School,0,Yes,No,67,170,2
+28,Absences confirmed by the International Code of Diseases,July,3,Summer,225,26,9,28,No,High School,1,No,No,69,169,112
+3,Without International Code of Diseases,July,3,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,1
+36,Without International Code of Diseases,July,6,Summer,118,13,18,50,No,High School,1,Yes,No,98,178,1
+10,Without International Code of Diseases,July,6,Summer,361,52,3,28,No,High School,1,Yes,No,80,172,8
+11,Without International Code of Diseases,July,2,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,8
+5,Without International Code of Diseases,July,2,Summer,235,20,13,43,No,High School,1,Yes,No,106,167,8
+24,Without International Code of Diseases,July,3,Summer,246,25,16,41,No,High School,0,Yes,No,67,170,2
+15,Without International Code of Diseases,July,5,Summer,291,31,12,40,No,High School,1,Yes,No,73,171,1
+7,Without International Code of Diseases,July,5,Summer,279,5,14,39,No,High School,2,Yes,Yes,68,168,2
+3,Without International Code of Diseases,August,5,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,4
+17,Without International Code of Diseases,August,2,Summer,179,22,17,40,No,Graduate,2,No,Yes,63,170,1
+24,Without International Code of Diseases,August,3,Summer,246,25,16,41,No,High School,0,Yes,No,67,170,4
+34,Without International Code of Diseases,August,3,Summer,118,10,10,37,No,High School,0,No,No,83,172,4
+11,Without International Code of Diseases,August,3,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,8
+5,Without International Code of Diseases,August,3,Summer,235,20,13,43,No,High School,1,Yes,No,106,167,8
+15,Without International Code of Diseases,August,5,Summer,291,31,12,40,No,High School,1,Yes,No,73,171,4
+3,Without International Code of Diseases,August,2,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,4
+17,Without International Code of Diseases,August,3,Summer,179,22,17,40,No,Graduate,2,No,Yes,63,170,8
+18,Without International Code of Diseases,August,5,Summer,330,16,4,28,No,Graduate,0,No,No,84,182,16
+1,Without International Code of Diseases,August,3,Summer,235,11,14,37,No,Postgraduate,1,No,No,88,172,4
+24,Without International Code of Diseases,August,3,Summer,246,25,16,41,No,High School,0,Yes,No,67,170,1
+34,Without International Code of Diseases,August,3,Summer,118,10,10,37,No,High School,0,No,No,83,172,5
+15,Without International Code of Diseases,August,5,Summer,291,31,12,40,No,High School,1,Yes,No,73,171,2
+20,Without International Code of Diseases,August,2,Summer,260,50,11,36,No,High School,4,Yes,No,65,168,3
+24,Without International Code of Diseases,September,3,Summer,246,25,16,41,No,High School,0,Yes,No,67,170,1
+24,Without International Code of Diseases,September,3,Summer,246,25,16,41,No,High School,0,Yes,No,67,170,1
+34,Without International Code of Diseases,September,3,Summer,118,10,10,37,No,High School,0,No,No,83,172,3
+14,Without International Code of Diseases,September,3,Summer,155,12,14,34,No,High School,2,Yes,No,95,196,2
+15,Without International Code of Diseases,September,5,Summer,291,31,12,40,No,High School,1,Yes,No,73,171,2
+22,Without International Code of Diseases,September,6,Summer,179,26,9,30,No,Postgraduate,0,No,No,56,171,8
+33,Without International Code of Diseases,September,6,Summer,248,25,14,47,No,High School,2,No,No,86,165,1
+3,Without International Code of Diseases,September,2,Summer,179,51,18,38,No,High School,0,Yes,No,89,170,4
+28,Without International Code of Diseases,September,4,Summer,225,26,9,28,No,High School,1,No,No,69,169,1
+22,Without International Code of Diseases,September,2,Summer,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+13,Without International Code of Diseases,September,3,Spring,369,17,12,31,No,High School,3,Yes,No,70,169,8
+10,Without International Code of Diseases,September,3,Spring,361,52,3,28,No,High School,1,Yes,No,80,172,8
+32,Absences confirmed by the International Code of Diseases,October,5,Spring,289,48,29,49,No,High School,0,No,No,108,172,1
+25,Absences confirmed by the International Code of Diseases,October,5,Spring,235,16,8,32,No,Postgraduate,0,No,No,75,178,3
+24,Without International Code of Diseases,October,6,Spring,246,25,16,41,No,High School,0,Yes,No,67,170,8
+32,Absences confirmed by the International Code of Diseases,October,4,Spring,289,48,29,49,No,High School,0,No,No,108,172,3
+15,Without International Code of Diseases,October,4,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,2
+34,Without International Code of Diseases,October,3,Spring,118,10,10,37,No,High School,0,No,No,83,172,2
+32,Without International Code of Diseases,October,5,Spring,289,48,29,49,No,High School,0,No,No,108,172,2
+15,Without International Code of Diseases,October,6,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,1
+28,Without International Code of Diseases,October,3,Spring,225,26,9,28,No,High School,1,No,No,69,169,2
+13,Without International Code of Diseases,October,3,Spring,369,17,12,31,No,High School,3,Yes,No,70,169,8
+13,Without International Code of Diseases,October,3,Spring,369,17,12,31,No,High School,3,Yes,No,70,169,3
+28,Without International Code of Diseases,October,3,Spring,225,26,9,28,No,High School,1,No,No,69,169,4
+13,Without International Code of Diseases,October,3,Spring,369,17,12,31,No,High School,3,Yes,No,70,169,8
+3,Without International Code of Diseases,October,4,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,3
+9,Absences confirmed by the International Code of Diseases,October,4,Spring,228,14,16,58,No,High School,2,No,No,65,172,1
+15,Without International Code of Diseases,October,4,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,1
+13,Absences confirmed by the International Code of Diseases,October,5,Spring,369,17,12,31,No,High School,3,Yes,No,70,169,8
+28,Absences confirmed by the International Code of Diseases,October,5,Spring,225,26,9,28,No,High School,1,No,No,69,169,1
+13,Absences confirmed by the International Code of Diseases,October,6,Spring,369,17,12,31,No,High School,3,Yes,No,70,169,8
+28,Absences confirmed by the International Code of Diseases,October,6,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+6,Without International Code of Diseases,October,2,Spring,189,29,13,33,No,High School,2,No,No,69,167,8
+25,Absences confirmed by the International Code of Diseases,October,2,Spring,235,16,8,32,No,Postgraduate,0,No,No,75,178,8
+33,Absences confirmed by the International Code of Diseases,October,2,Spring,248,25,14,47,No,High School,2,No,No,86,165,8
+28,Absences confirmed by the International Code of Diseases,October,2,Spring,225,26,9,28,Yes,High School,1,No,No,69,169,0
+28,Absences confirmed by the International Code of Diseases,October,3,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+3,Absences confirmed by the International Code of Diseases,November,3,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+34,Without International Code of Diseases,November,4,Spring,118,10,10,37,No,High School,0,No,No,83,172,3
+18,Absences confirmed by the International Code of Diseases,November,4,Spring,330,16,4,28,No,Graduate,0,No,No,84,182,24
+3,Without International Code of Diseases,November,6,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+34,Absences confirmed by the International Code of Diseases,November,3,Spring,118,10,10,37,No,High School,0,No,No,83,172,8
+11,Without International Code of Diseases,November,4,Spring,289,36,13,33,No,High School,2,Yes,No,90,172,8
+25,Absences confirmed by the International Code of Diseases,November,6,Spring,235,16,8,32,No,Postgraduate,0,No,No,75,178,8
+28,Without International Code of Diseases,November,6,Spring,225,26,9,28,No,High School,1,No,No,69,169,4
+10,Without International Code of Diseases,November,3,Spring,361,52,3,28,No,High School,1,Yes,No,80,172,8
+15,Without International Code of Diseases,November,4,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,2
+34,Absences confirmed by the International Code of Diseases,November,5,Spring,118,10,10,37,No,High School,0,No,No,83,172,2
+28,Absences confirmed by the International Code of Diseases,November,5,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+3,Without International Code of Diseases,November,2,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,1
+34,Without International Code of Diseases,November,2,Spring,118,10,10,37,No,High School,0,No,No,83,172,8
+34,Absences confirmed by the International Code of Diseases,November,3,Spring,118,10,10,37,No,High School,0,No,No,83,172,8
+28,Without International Code of Diseases,November,3,Spring,225,26,9,28,No,High School,1,No,No,69,169,2
+15,Absences confirmed by the International Code of Diseases,November,3,Spring,291,31,12,40,Yes,High School,1,Yes,No,73,171,0
+11,Absences confirmed by the International Code of Diseases,November,4,Spring,289,36,13,33,Yes,High School,2,Yes,No,90,172,0
+33,Absences confirmed by the International Code of Diseases,November,5,Spring,248,25,14,47,No,High School,2,No,No,86,165,4
+5,Absences confirmed by the International Code of Diseases,November,5,Spring,235,20,13,43,Yes,High School,1,Yes,No,106,167,0
+28,Without International Code of Diseases,November,6,Spring,225,26,9,28,No,High School,1,No,No,69,169,2
+13,Without International Code of Diseases,November,6,Spring,369,17,12,31,No,High School,3,Yes,No,70,169,8
+10,Without International Code of Diseases,November,2,Spring,361,52,3,28,No,High School,1,Yes,No,80,172,2
+3,Absences confirmed by the International Code of Diseases,December,3,Spring,179,51,18,38,No,High School,0,Yes,No,89,170,32
+15,Without International Code of Diseases,December,4,Spring,291,31,12,40,No,High School,1,Yes,No,73,171,1
+28,Without International Code of Diseases,December,4,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+22,Absences confirmed by the International Code of Diseases,December,6,Spring,179,26,9,30,No,Postgraduate,0,No,No,56,171,1
+28,Without International Code of Diseases,December,6,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+28,Without International Code of Diseases,December,4,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+10,Absences confirmed by the International Code of Diseases,December,5,Spring,361,52,3,28,No,High School,1,Yes,No,80,172,4
+17,Absences confirmed by the International Code of Diseases,December,6,Spring,179,22,17,40,No,Graduate,2,No,Yes,63,170,2
+5,Without International Code of Diseases,December,6,Spring,235,20,13,43,No,High School,1,Yes,No,106,167,8
+12,Absences confirmed by the International Code of Diseases,December,2,Spring,233,51,1,31,No,Graduate,1,Yes,No,68,178,8
+22,Absences confirmed by the International Code of Diseases,December,3,Spring,179,26,9,30,No,Postgraduate,0,No,No,56,171,16
+28,Without International Code of Diseases,December,3,Spring,225,26,9,28,No,High School,1,No,No,69,169,2
+28,Without International Code of Diseases,December,5,Spring,225,26,9,28,No,High School,1,No,No,69,169,3
+28,Without International Code of Diseases,December,2,Spring,225,26,9,28,No,High School,1,No,No,69,169,2
+14,Absences confirmed by the International Code of Diseases,December,3,Autumn,155,12,14,34,No,High School,2,Yes,No,95,196,80
+22,Absences confirmed by the International Code of Diseases,January,2,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,24
+22,Absences confirmed by the International Code of Diseases,January,5,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,16
+17,Without International Code of Diseases,January,5,Autumn,179,22,17,40,No,Graduate,2,No,Yes,63,170,2
+17,Without International Code of Diseases,January,6,Autumn,179,22,17,40,No,Graduate,2,No,Yes,63,170,2
+22,Absences confirmed by the International Code of Diseases,January,2,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,3
+17,Without International Code of Diseases,January,4,Autumn,179,22,17,40,No,Graduate,2,No,Yes,63,170,2
+32,Absences confirmed by the International Code of Diseases,January,5,Autumn,289,48,29,49,No,High School,0,No,No,108,172,8
+17,Absences confirmed by the International Code of Diseases,January,6,Autumn,179,22,17,40,No,Graduate,2,No,Yes,63,170,3
+22,Without International Code of Diseases,January,2,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+14,Absences confirmed by the International Code of Diseases,January,3,Autumn,155,12,14,34,No,High School,2,Yes,No,95,196,8
+22,Without International Code of Diseases,January,4,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+3,Without International Code of Diseases,January,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+11,Absences confirmed by the International Code of Diseases,January,4,Autumn,289,36,13,33,No,High School,2,Yes,No,90,172,8
+3,Without International Code of Diseases,January,5,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+3,Without International Code of Diseases,January,6,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+3,Absences confirmed by the International Code of Diseases,February,3,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,8
+28,Without International Code of Diseases,February,3,Autumn,225,26,9,28,No,High School,1,No,No,69,169,3
+33,Absences confirmed by the International Code of Diseases,February,4,Autumn,248,25,14,47,No,High School,2,No,No,86,165,8
+3,Without International Code of Diseases,February,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+28,Without International Code of Diseases,February,5,Autumn,225,26,9,28,No,High School,1,No,No,69,169,3
+3,Without International Code of Diseases,February,5,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+22,Without International Code of Diseases,February,5,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+29,Without International Code of Diseases,February,6,Autumn,225,15,15,41,No,Master & Doctor,2,Yes,No,94,182,2
+3,Without International Code of Diseases,February,6,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+12,Absences confirmed by the International Code of Diseases,February,2,Autumn,233,51,1,31,No,Graduate,1,Yes,No,68,178,2
+3,Without International Code of Diseases,February,2,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+28,Absences confirmed by the International Code of Diseases,February,3,Autumn,225,26,9,28,No,High School,1,No,No,69,169,8
+3,Without International Code of Diseases,February,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+3,Without International Code of Diseases,February,5,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+28,Without International Code of Diseases,February,5,Autumn,225,26,9,28,No,High School,1,No,No,69,169,3
+22,Absences confirmed by the International Code of Diseases,February,5,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+17,Without International Code of Diseases,February,6,Autumn,179,22,17,40,No,Graduate,2,No,Yes,63,170,2
+3,Without International Code of Diseases,February,6,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+12,Absences confirmed by the International Code of Diseases,February,4,Autumn,233,51,1,31,No,Graduate,1,Yes,No,68,178,3
+22,Without International Code of Diseases,February,4,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+3,Without International Code of Diseases,February,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+3,Absences confirmed by the International Code of Diseases,February,5,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,8
+3,Without International Code of Diseases,February,6,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+14,Without International Code of Diseases,February,2,Autumn,155,12,14,34,No,High School,2,Yes,No,95,196,5
+25,Without International Code of Diseases,February,2,Autumn,235,16,8,32,No,Postgraduate,0,No,No,75,178,3
+3,Without International Code of Diseases,February,2,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+28,Absences confirmed by the International Code of Diseases,February,2,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+3,Without International Code of Diseases,February,3,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+33,Without International Code of Diseases,February,3,Autumn,248,25,14,47,No,High School,2,No,No,86,165,2
+28,Without International Code of Diseases,February,3,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+3,Without International Code of Diseases,February,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+3,Without International Code of Diseases,February,5,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+25,Without International Code of Diseases,February,6,Autumn,235,16,8,32,No,Postgraduate,0,No,No,75,178,2
+3,Without International Code of Diseases,March,2,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+33,Without International Code of Diseases,March,2,Autumn,248,25,14,47,No,High School,2,No,No,86,165,2
+9,Without International Code of Diseases,March,3,Autumn,228,14,16,58,No,High School,2,No,No,65,172,3
+33,Without International Code of Diseases,March,3,Autumn,248,25,14,47,No,High School,2,No,No,86,165,3
+9,Absences confirmed by the International Code of Diseases,March,3,Autumn,228,14,16,58,No,High School,2,No,No,65,172,112
+3,Without International Code of Diseases,March,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+28,Without International Code of Diseases,March,5,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+3,Without International Code of Diseases,March,5,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+28,Without International Code of Diseases,March,5,Autumn,225,26,9,28,No,High School,1,No,No,69,169,2
+22,Without International Code of Diseases,March,6,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,3
+25,Without International Code of Diseases,March,2,Autumn,235,16,8,32,No,Postgraduate,0,No,No,75,178,3
+10,Absences confirmed by the International Code of Diseases,March,2,Autumn,361,52,3,28,No,High School,1,Yes,No,80,172,8
+3,Absences confirmed by the International Code of Diseases,March,3,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,8
+3,Without International Code of Diseases,March,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+3,Without International Code of Diseases,March,5,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+22,Without International Code of Diseases,March,6,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+3,Absences confirmed by the International Code of Diseases,March,2,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,4
+33,Absences confirmed by the International Code of Diseases,March,2,Autumn,248,25,14,47,No,High School,2,No,No,86,165,2
+3,Without International Code of Diseases,March,2,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+28,Absences confirmed by the International Code of Diseases,March,2,Autumn,225,26,9,28,No,High School,1,No,No,69,169,8
+3,Without International Code of Diseases,March,3,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+11,Without International Code of Diseases,March,4,Autumn,289,36,13,33,No,High School,2,Yes,No,90,172,8
+9,Without International Code of Diseases,March,4,Autumn,228,14,16,58,No,High School,2,No,No,65,172,2
+3,Without International Code of Diseases,March,4,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,2
+33,Without International Code of Diseases,March,5,Autumn,248,25,14,47,No,High School,2,No,No,86,165,3
+3,Without International Code of Diseases,March,5,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+22,Without International Code of Diseases,March,6,Autumn,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+3,Without International Code of Diseases,March,6,Autumn,179,51,18,38,No,High School,0,Yes,No,89,170,3
+3,Without International Code of Diseases,March,3,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,3
+16,Without International Code of Diseases,March,4,Winter,118,15,24,46,No,High School,2,Yes,Yes,75,175,8
+14,Absences confirmed by the International Code of Diseases,March,4,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,24
+3,Without International Code of Diseases,March,4,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,3
+3,Without International Code of Diseases,March,5,Winter,179,51,18,38,No,High School,0,Yes,No,89,170,3
+22,Absences confirmed by the International Code of Diseases,March,2,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+11,Absences confirmed by the International Code of Diseases,March,2,Winter,289,36,13,33,No,High School,2,Yes,No,90,172,104
+13,Without International Code of Diseases,March,4,Winter,369,17,12,31,No,High School,3,Yes,No,70,169,8
+28,Absences confirmed by the International Code of Diseases,April,2,Winter,225,26,9,28,No,High School,1,No,No,69,169,8
+34,Absences confirmed by the International Code of Diseases,April,2,Winter,118,10,10,37,No,High School,0,No,No,83,172,8
+10,Absences confirmed by the International Code of Diseases,April,3,Winter,361,52,3,28,No,High School,1,Yes,No,80,172,8
+33,Absences confirmed by the International Code of Diseases,April,4,Winter,248,25,14,47,No,High School,2,No,No,86,165,8
+6,Absences confirmed by the International Code of Diseases,April,5,Winter,189,29,13,33,No,High School,2,No,No,69,167,8
+22,Without International Code of Diseases,April,6,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+13,Absences confirmed by the International Code of Diseases,April,2,Winter,369,17,12,31,No,High School,3,Yes,No,70,169,24
+17,Absences confirmed by the International Code of Diseases,April,3,Winter,179,22,17,40,No,Graduate,2,No,Yes,63,170,2
+36,Without International Code of Diseases,April,3,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,3
+10,Without International Code of Diseases,April,3,Winter,361,52,3,28,No,High School,1,Yes,No,80,172,2
+34,Absences confirmed by the International Code of Diseases,April,4,Winter,118,10,10,37,No,High School,0,No,No,83,172,2
+1,Without International Code of Diseases,April,6,Winter,235,11,14,37,No,Postgraduate,1,No,No,88,172,8
+22,Without International Code of Diseases,April,6,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+28,Absences confirmed by the International Code of Diseases,April,2,Winter,225,26,9,28,No,High School,1,No,No,69,169,8
+25,Absences confirmed by the International Code of Diseases,April,3,Winter,235,16,8,32,No,Postgraduate,0,No,No,75,178,3
+22,Without International Code of Diseases,April,6,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+14,Without International Code of Diseases,April,3,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,4
+28,Absences confirmed by the International Code of Diseases,April,5,Winter,225,26,9,28,No,High School,1,No,No,69,169,8
+36,Absences confirmed by the International Code of Diseases,April,5,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,2
+22,Without International Code of Diseases,April,6,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+1,Without International Code of Diseases,May,2,Winter,235,11,14,37,No,Postgraduate,1,No,No,88,172,8
+29,Absences confirmed by the International Code of Diseases,May,4,Winter,225,15,15,41,No,Master & Doctor,2,Yes,No,94,182,3
+25,Without International Code of Diseases,May,4,Winter,235,16,8,32,No,Postgraduate,0,No,No,75,178,2
+34,Absences confirmed by the International Code of Diseases,May,4,Winter,118,10,10,37,No,High School,0,No,No,83,172,3
+5,Without International Code of Diseases,May,4,Winter,235,20,13,43,No,High School,1,Yes,No,106,167,8
+22,Absences confirmed by the International Code of Diseases,May,5,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,1
+15,Without International Code of Diseases,May,5,Winter,291,31,12,40,No,High School,1,Yes,No,73,171,2
+29,Absences confirmed by the International Code of Diseases,May,5,Winter,225,15,15,41,No,Master & Doctor,2,Yes,No,94,182,8
+26,Absences confirmed by the International Code of Diseases,May,6,Winter,300,26,13,43,No,High School,2,Yes,Yes,77,175,64
+29,Without International Code of Diseases,May,6,Winter,225,15,15,41,No,Master & Doctor,2,Yes,No,94,182,8
+22,Without International Code of Diseases,May,6,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+36,Without International Code of Diseases,May,2,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,2
+36,Absences confirmed by the International Code of Diseases,May,3,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,3
+34,Without International Code of Diseases,May,3,Winter,118,10,10,37,No,High School,0,No,No,83,172,1
+36,Absences confirmed by the International Code of Diseases,May,3,Winter,118,13,18,50,Yes,High School,1,Yes,No,98,178,0
+22,Without International Code of Diseases,May,4,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+23,Absences confirmed by the International Code of Diseases,May,4,Winter,378,49,11,36,Yes,High School,2,No,Yes,65,174,0
+17,Absences confirmed by the International Code of Diseases,May,6,Winter,179,22,17,40,No,Graduate,2,No,Yes,63,170,1
+14,Absences confirmed by the International Code of Diseases,May,2,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,48
+25,Absences confirmed by the International Code of Diseases,May,2,Winter,235,16,8,32,No,Postgraduate,0,No,No,75,178,8
+15,Without International Code of Diseases,May,4,Winter,291,31,12,40,No,High School,1,Yes,No,73,171,8
+17,Absences confirmed by the International Code of Diseases,May,4,Winter,179,22,17,40,No,Graduate,2,No,Yes,63,170,8
+28,Absences confirmed by the International Code of Diseases,May,4,Winter,225,26,9,28,No,High School,1,No,No,69,169,3
+18,Absences confirmed by the International Code of Diseases,May,5,Winter,330,16,4,28,No,Graduate,0,No,No,84,182,8
+25,Without International Code of Diseases,May,5,Winter,235,16,8,32,No,Postgraduate,0,No,No,75,178,2
+15,Without International Code of Diseases,May,5,Winter,291,31,12,40,No,High School,1,Yes,No,73,171,2
+22,Without International Code of Diseases,May,6,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+10,Absences confirmed by the International Code of Diseases,May,2,Winter,361,52,3,28,No,High School,1,Yes,No,80,172,8
+14,Without International Code of Diseases,May,4,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,2
+17,Without International Code of Diseases,May,6,Winter,179,22,17,40,No,Graduate,2,No,Yes,63,170,8
+14,Absences confirmed by the International Code of Diseases,May,6,Winter,155,12,14,34,No,High School,2,Yes,No,95,196,8
+28,Absences confirmed by the International Code of Diseases,May,2,Winter,225,26,9,28,No,High School,1,No,No,69,169,1
+16,Absences confirmed by the International Code of Diseases,June,4,Winter,118,15,24,46,No,High School,2,Yes,Yes,75,175,8
+22,Without International Code of Diseases,June,4,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,3
+34,Without International Code of Diseases,June,6,Winter,118,10,10,37,No,High School,0,No,No,83,172,8
+34,Absences confirmed by the International Code of Diseases,June,4,Winter,118,10,10,37,No,High School,0,No,No,83,172,8
+23,Without International Code of Diseases,June,5,Winter,378,49,11,36,No,High School,2,No,Yes,65,174,8
+36,Absences confirmed by the International Code of Diseases,June,5,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,24
+12,Absences confirmed by the International Code of Diseases,June,6,Winter,233,51,1,31,No,Graduate,1,Yes,No,68,178,8
+22,Without International Code of Diseases,June,6,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+2,Absences confirmed by the International Code of Diseases,June,2,Winter,235,29,12,48,Yes,High School,1,No,Yes,88,163,0
+21,Absences confirmed by the International Code of Diseases,June,2,Winter,268,11,8,33,Yes,Graduate,0,No,No,79,178,0
+36,Absences confirmed by the International Code of Diseases,June,5,Winter,118,13,18,50,No,High School,1,Yes,No,98,178,3
+22,Absences confirmed by the International Code of Diseases,June,5,Winter,179,26,9,30,No,Postgraduate,0,No,No,56,171,2
+15,Without International Code of Diseases,June,5,Winter,291,31,12,40,No,High School,1,Yes,No,73,171,2
+22,Absences confirmed by the International Code of Diseases,June,2,Summer,179,26,9,30,No,Postgraduate,0,No,No,56,171,3
+34,Without International Code of Diseases,June,2,Summer,118,10,10,37,No,High School,0,No,No,83,172,3
+12,Without International Code of Diseases,June,5,Summer,233,51,1,31,No,Graduate,1,Yes,No,68,178,8
+34,Absences confirmed by the International Code of Diseases,June,6,Summer,118,10,10,37,No,High School,0,No,No,83,172,2
+34,Absences confirmed by the International Code of Diseases,June,4,Summer,118,10,10,37,No,High School,0,No,No,83,172,3
+12,Without International Code of Diseases,June,4,Summer,233,51,1,31,No,Graduate,1,Yes,No,68,178,3
+5,Without International Code of Diseases,July,4,Summer,235,20,13,43,No,High School,1,Yes,No,106,167,4
+12,Absences confirmed by the International Code of Diseases,July,6,Summer,233,51,1,31,No,Graduate,1,Yes,No,68,178,2
+9,Absences confirmed by the International Code of Diseases,July,2,Summer,228,14,16,58,No,High School,2,No,No,65,172,8
+34,Without International Code of Diseases,July,2,Summer,118,10,10,37,No,High School,0,No,No,83,172,4
+9,Absences confirmed by the International Code of Diseases,July,3,Summer,228,14,16,58,No,High School,2,No,No,65,172,120
+6,Without International Code of Diseases,July,3,Summer,189,29,13,33,No,High School,2,No,No,69,167,16
+34,Without International Code of Diseases,July,4,Summer,118,10,10,37,No,High School,0,No,No,83,172,2
+10,Without International Code of Diseases,July,4,Summer,361,52,3,28,No,High School,1,Yes,No,80,172,8
+28,Without International Code of Diseases,July,4,Summer,225,26,9,28,No,High School,1,No,No,69,169,8
+13,Absences confirmed by the International Code of Diseases,July,2,Summer,369,17,12,31,No,High School,3,Yes,No,70,169,80
+11,Absences confirmed by the International Code of Diseases,July,3,Summer,289,36,13,33,No,High School,2,Yes,No,90,172,8
+1,Absences confirmed by the International Code of Diseases,July,3,Summer,235,11,14,37,No,Postgraduate,1,No,No,88,172,4
+4,Absences confirmed by the International Code of Diseases,0,3,Summer,118,14,13,40,No,High School,1,Yes,No,98,170,0
+8,Absences confirmed by the International Code of Diseases,0,4,Autumn,231,35,14,39,No,High School,2,Yes,No,100,170,0
+35,Absences confirmed by the International Code of Diseases,0,6,Winter,179,45,14,53,No,High School,1,No,No,77,175,0
